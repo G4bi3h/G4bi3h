@@ -1,6 +1,6 @@
 # Sobre mim **Gabrieli**
 - 👋 **Olá eu sou @G4bi3h**
-- :+1: O meu .[e-mail](gabrieli.linkoscki@escola.pr.gov.br)
+- :+1: O meu [e-mail](gabrieli.linkoscki@escola.pr.gov.br)
 - :+1: Eu estou interessada em aprender novas linguagens de programação
 - :+1: I´m interested in learning new programming languages
 - 👀  Eu estou recentemente aprendendo a programar na linguagem Java Script e Scratch
